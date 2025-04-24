@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMzemh5eWRpYmN6ajV5d3dhbmNxdGw3aWw1d3NlajR0dDJ5bzRhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zn5MoMgpMtyTeYxwQ7/giphy.gif
 <!--
 **VBonamassa3/VBonamassa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
