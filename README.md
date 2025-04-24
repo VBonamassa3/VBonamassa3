@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <img src="![giphy](https://github.com/user-attachments/assets/05993528-db7d-4184-8696-8946b563c6ad)">
+  ![giphy](https://github.com/user-attachments/assets/05993528-db7d-4184-8696-8946b563c6ad)
 </p>
 
-<h1 align="center">My name is Alex!</h1>
-<h3 align="center">I am a passionate full-stack developer studying for my Masters in Computer Science!</h3>
+<h1 align="center">My name is Vincent!</h1>
+<h3 align="center">I am studying for the process of my Bachelors in Computer Science!</h3>
 
 <!--
 **VBonamassa3/VBonamassa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
