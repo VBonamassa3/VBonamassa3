@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=
-![giphy](https://github.com/user-attachments/assets/b11aa7a5-4189-4aa9-982b-525de5d8d262)>
+  <img src=https://github.com/user-attachments/assets/b11aa7a5-4189-4aa9-982b-525de5d8d262>
 </p>
 
 <h1 align="center">Hello there. My name is Vincent!</h1>
