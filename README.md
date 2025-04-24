@@ -1,9 +1,6 @@
 ![giphy](https://github.com/user-attachments/assets/b11aa7a5-4189-4aa9-982b-525de5d8d262)
 
-
-## Hi there 👋
-
-<h1 align="center">My name is Vincent!</h1>
+<h1 align="center">Hi there 👋! My name is Vincent!</h1>
 <h3 align="center">I am studying for the process of my Bachelors in Computer Science!</h3>
 
 <!--
