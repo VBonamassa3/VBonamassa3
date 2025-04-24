@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ryunosuke](https://github.com/user-attachments/assets/42e70fd6-246c-4ba0-8c48-886884e8b189)
+![giphy](https://github.com/user-attachments/assets/05993528-db7d-4184-8696-8946b563c6ad)
 
 <!--
 **VBonamassa3/VBonamassa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
