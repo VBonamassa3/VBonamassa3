@@ -2,10 +2,7 @@
   <img src=https://github.com/user-attachments/assets/b11aa7a5-4189-4aa9-982b-525de5d8d262>
 </p>
 
-<h1 align="center">Hello there. My name is Vincent!</h1>
-<h3 align="center">I am studying for the process of obtaining my Bachelors in Computer Science!</h3>
 
-I am big into video games, and would love to get into some sort of development in the future. As it stands right now, this is where I'm at. Feel free to look at what I've done up to this point.
 
 <!--
 **VBonamassa3/VBonamassa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
